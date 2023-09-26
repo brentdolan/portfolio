@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/pluto.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/About.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/About/About.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/Projects.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="nothing important" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,11 +55,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695686541867</updated>
-      <workItem from="1695686546287" duration="7535000" />
+      <workItem from="1695686546287" duration="7951000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Nav and Hero Section">
+      <created>1695694290082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695694290083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Nav and Hero Section">
+      <created>1695694483284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695694483284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nothing important">
+      <created>1695694503604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695694503604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Nav and Hero Section" />
+    <MESSAGE value="nothing important" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing important" />
   </component>
 </project>
