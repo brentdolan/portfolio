@@ -1,0 +1,18 @@
+.navBar {
+  color: var(--kirby);
+  display: flex;
+  width: calc(100% - 2rem);
+  justify-content: space-between;
+  padding-inline: 1rem;
+  border-bottom: .5px solid #A9A9A9;
+
+  button {
+    background-color: var(--kirby);
+    color: var(--ganondorf);
+    border-radius: 25px;
+    border: none;
+    margin-block: auto;
+    padding: .75rem 2rem;
+    font-size: 1.25rem;
+  }
+}

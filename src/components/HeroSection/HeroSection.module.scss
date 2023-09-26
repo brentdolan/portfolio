@@ -1,0 +1,51 @@
+.heroSection {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  margin-block: 3rem;
+  margin-inline: .5rem;
+}
+
+.headerName {
+  color: var(--kirby);
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.text {
+font-size: 1.25rem;
+}
+
+.image {
+  width: 100%;
+}
+
+.textContainer {
+  display: flex;
+  flex-flow: column;
+  width: 100%;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .heroSection {
+    margin-inline: 4rem;
+  }
+
+  .text {
+    font-size: 1.5rem;
+  }
+
+  .headerName {
+    font-size: 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .text {
+    font-size: 2rem;
+  }
+
+  .headerName {
+    font-size: 4rem;
+  }
+}
