@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <HeroSection/>
-        <img alt={'Figma test image'} src={'/figma.png'}/>
+        <img alt={'Figma test image'} src={'/realFigma.png'}/>
     </main>
   )
 }

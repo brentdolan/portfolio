@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="nothing important">
-      <change afterPath="$PROJECT_DIR$/public/figma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/realFigma.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695686541867</updated>
       <workItem from="1695686546287" duration="8315000" />
-      <workItem from="1695747146016" duration="137000" />
+      <workItem from="1695747146016" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="Added Nav and Hero Section">
       <created>1695694290082</created>
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695694823074</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="nothing important">
+      <created>1695747307558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695747307558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
