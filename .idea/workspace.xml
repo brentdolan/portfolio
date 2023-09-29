@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="Under Construction">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/honeymoon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/matchinggame.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/spooky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/spookylist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/spookylistfigma.png" afterDir="false" />
+    <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="Rough Draft">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/About.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/About.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar/NavBar.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar/NavBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/NavBar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeroSection/HeroSection.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695923162494</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Rough Draft">
+      <created>1695948459884</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695948459884</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +132,7 @@
     <MESSAGE value="Added Nav and Hero Section" />
     <MESSAGE value="nothing important" />
     <MESSAGE value="Under Construction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Under Construction" />
+    <MESSAGE value="Rough Draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rough Draft" />
   </component>
 </project>
