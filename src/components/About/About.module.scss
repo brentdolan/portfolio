@@ -1,0 +1,29 @@
+.about {
+  text-align: center;
+
+  h1 {
+    color: var(--kirby);
+    font-weight: bold;
+    font-size: 2rem;
+
+  }
+}
+
+@media (min-width: 768px) {
+  .about {
+    font-size: 1.25rem;
+
+    h1 {
+      font-size: 3rem;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  .about {
+
+    h1 {
+      font-size: 4rem;
+    }
+  }
+}

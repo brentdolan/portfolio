@@ -6,12 +6,15 @@
   padding-inline: 1rem;
   border-bottom: .5px solid #A9A9A9;
 
+  a {
+    margin-block: auto;
+  }
+
   button {
     background-color: var(--kirby);
     color: var(--ganondorf);
     border-radius: 25px;
     border: none;
-    margin-block: auto;
     padding: .75rem 2rem;
     font-size: 1.25rem;
   }

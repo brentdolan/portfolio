@@ -1,0 +1,68 @@
+.projects {
+  width: 100%;
+  margin-block: auto;
+
+  h1 {
+    text-align: center;
+    color: var(--kirby);
+    font-size: 2rem;
+  }
+
+  a {
+    color: var(--littlemac);
+  }
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 4fr 4fr;
+  margin-inline: .5rem;
+  margin-block: 3rem;
+  gap: 1rem;
+}
+
+.image {
+  text-align: center;
+  object-fit: cover;
+  height: 10rem;
+  width: 10rem;
+  margin: auto;
+}
+
+@media (min-width: 768px) {
+  .projects {
+    font-size: 1.25rem;
+
+    h1 {
+      font-size: 3rem;
+    }
+  }
+
+  .image {
+    width: 15rem;
+    height: 15rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .projects {
+
+    div {
+
+    }
+
+    h1 {
+      font-size: 4rem;
+    }
+  }
+
+  .grid {
+    margin-inline: rem;
+  }
+
+  .image {
+    margin-inline: 3rem;
+    width: auto;
+    height: 20rem;
+  }
+}
