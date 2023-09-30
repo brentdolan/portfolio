@@ -10,7 +10,7 @@ export const Projects: React.FC = () => {
             <img className={styles.image} alt={'Photo of the GitHub repository that holds Spooky List'} src={'./spookylist.png'}/>
                     <div>
                             <h2 className={styles.title} >Spooky List</h2>
-                            <div>This is a website where users can create lists of their favorite horror movies and track their progress as they make their way through the list. Users can sign up with Google, learn where to stream their favorite movies and discover/bookmark new movies for later. This website will be launched soon and the Figma for the website is pictured</div>
+                            <div>This is a website where users can create lists of their favorite horror movies and track their progress as they make their way through the list. Users can sign up with Google, learn where to stream their favorite movies and discover/bookmark new movies for later. This website will be launched soon and the GitHub for the website is pictured</div>
                             <a href={'https://github.com/brentdolan/spooky-list.git'}>Spooky List</a>
                     </div>
             </div>
