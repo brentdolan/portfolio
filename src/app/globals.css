@@ -2,9 +2,17 @@
     --ganondorf: #262626;
     --kirby: #D4A8EF;
     --littlemac: #D4D2CE;
+
+    --headingFont: var(--headingFont);
+    --primaryFont: var(--primaryFont);
 }
 body {
     background-color: var(--ganondorf);
     color: var(--littlemac);
     margin: 0;
+}
+
+h1,h2,h3 {
+    font-family: var(--headingFont);
+    font-weight: 800;
 }

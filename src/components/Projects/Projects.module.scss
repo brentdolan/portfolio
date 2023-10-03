@@ -6,6 +6,7 @@
     text-align: center;
     color: var(--kirby);
     font-size: 2rem;
+    margin: 0;
   }
 
   a {
@@ -15,7 +16,7 @@
 
 .grid {
   display: grid;
-  grid-template-columns: 4fr 4fr;
+  grid-template-columns: 1fr;
   margin-inline: .5rem;
   margin-block: 3rem;
   gap: 1rem;
@@ -24,8 +25,8 @@
 .image {
   text-align: center;
   object-fit: cover;
-  height: 10rem;
-  width: 10rem;
+  //height: auto;
+  width: 100%;
   margin: auto;
 }
 
@@ -38,31 +39,18 @@
     }
   }
 
-  .image {
-    width: 15rem;
-    height: 15rem;
+  .grid {
+    grid-template-columns: 3fr 4fr;
+    gap: 3rem;
   }
+
 }
 
 @media (min-width: 1024px) {
   .projects {
 
-    div {
-
-    }
-
     h1 {
       font-size: 4rem;
     }
-  }
-
-  .grid {
-    margin-inline: rem;
-  }
-
-  .image {
-    margin-inline: 3rem;
-    width: auto;
-    height: 20rem;
   }
 }
