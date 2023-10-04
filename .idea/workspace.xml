@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="Fixed grid and added fonts">
-      <change afterPath="$PROJECT_DIR$/public/fans.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/webster.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +67,7 @@
       <workItem from="1696095678424" duration="57000" />
       <workItem from="1696287176168" duration="3775000" />
       <workItem from="1696359090830" duration="520000" />
-      <workItem from="1696376582144" duration="584000" />
+      <workItem from="1696376582144" duration="1191000" />
     </task>
     <task id="LOCAL-00001" summary="Added Nav and Hero Section">
       <created>1695694290082</created>
@@ -150,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696292931618</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fixed grid and added fonts">
+      <created>1696438537646</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696438537646</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

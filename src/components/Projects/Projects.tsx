@@ -32,32 +32,6 @@ export const Projects: React.FC = () => {
                             <a href={'https://honeymoonmissourifilm.com/'}>Honeymoon Missouri</a>
                     </div>
             </div>
-
-                <div className={styles.grid}>
-                        <img className={styles.image} alt={'Photo of the GitHub repository that holds Spooky List'} src={'./fans.png'}/>
-                        <div>
-                                <h2 className={styles.title} >Movie Fan Site</h2>
-                                <div>This website was made for my Web Design class and the project was to create an HTML based site that was centered around a specific movie genre. This was the last site I made using only HTML and CSS and so it heavily showcases both. </div>
-                                <a href={'https://unruffled-feynman-e3267a.netlify.app'}>Movie Fan Site</a>
-                        </div>
-                </div>
-
-                <div className={styles.grid}>
-                        <img className={styles.image} alt={'Photo of the GitHub repository that holds Spooky List'} src={'./tool.png'}/>
-                        <div>
-                                <h2 className={styles.title} >Brent's Tool Shed</h2>
-                                <div>This website was made for my Web Design class and was the goal was to make an HTML site that could move between different pages. I was able to incorporate some basic CSS with this project as well.</div>
-                        </div>
-                </div>
-
-                <div className={styles.grid}>
-                        <img className={styles.image} alt={'Photo of the GitHub repository that holds Spooky List'} src={'./webster.png'}/>
-                        <div>
-                                <h2 className={styles.title} >Webster Single Page Application</h2>
-                                <div>A website made for my Web Scripting class that was supposed to show a basic understanding of HTML on a single page application. This assignment allowed me to explore the structure needed to edit an HTML site. I was able to learn more about maintaining a website during this assignment. </div>
-                        </div>
-                </div>
-
         </div>
     )
 }
