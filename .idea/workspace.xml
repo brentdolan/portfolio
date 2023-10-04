@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="Nothing Important">
+    <list default="true" id="bafe359d-dd48-4ab6-902e-11e38ab29d93" name="Changes" comment="Fixed grid and added fonts">
+      <change afterPath="$PROJECT_DIR$/public/fans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/webster.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,9 @@
       <workItem from="1695747146016" duration="543000" />
       <workItem from="1695748781702" duration="38000" />
       <workItem from="1696095678424" duration="57000" />
-      <workItem from="1696287176168" duration="3719000" />
+      <workItem from="1696287176168" duration="3775000" />
+      <workItem from="1696359090830" duration="520000" />
+      <workItem from="1696376582144" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="Added Nav and Hero Section">
       <created>1695694290082</created>
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696095727183</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fixed grid and added fonts">
+      <created>1696292931618</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696292931618</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +162,7 @@
     <MESSAGE value="Under Construction" />
     <MESSAGE value="Rough Draft" />
     <MESSAGE value="Nothing Important" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nothing Important" />
+    <MESSAGE value="Fixed grid and added fonts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed grid and added fonts" />
   </component>
 </project>
