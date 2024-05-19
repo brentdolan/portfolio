@@ -1,6 +1,6 @@
 import './globals.css'
 import type { Metadata } from 'next'
-import { Epilogue, Poppins } from 'next/font/google'
+import {Anton, Epilogue, Poppins, Space_Grotesk} from 'next/font/google'
 import {NavBar} from "@/components/NavBar/NavBar";
 
 export const metadata: Metadata = {
@@ -8,15 +8,15 @@ export const metadata: Metadata = {
   description: 'Portfolio Website',
 }
 
-const epilogue = Epilogue({
+const epilogue = Anton({
     subsets: ['latin'],
     variable: '--headingFont',
-    display: 'swap'
+    weight: '400'
 })
 
-const poppins = Poppins({
+const poppins = Space_Grotesk({
     subsets: ['latin'],
-    weight: ['400', '500', '600', '700', '800'],
+    weight: ['400', '500', '600', '700'],
     variable: '--primaryFont',
     display: 'swap'
 })
